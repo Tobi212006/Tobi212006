@@ -1,21 +1,33 @@
-# Hi, I'm Tobi212006 👋
+# Hi, I’m Tobi212006 👋
 
 ![Luffy artwork](https://raw.githubusercontent.com/Tobi212006/Tobi212006/main/assets/luffy-profile.jpg)
 
-I build web applications, Python games, and small tools through hands-on projects.
+### Interior design student · Spatial planning · 3D visualisation
 
-## Skills & tools
+I’m an interior design student building practical skills in space planning, technical drawings, and visual communication. I’m especially interested in thoughtful, functional interiors and hospitality spaces.
 
-| Area | Tools and experience |
-| --- | --- |
-| Web development | JavaScript, React, Next.js, PHP |
-| Python projects | Python, Pygame |
-| Version control | Git, GitHub |
+**Long-term goal:** to build an independent interior design studio focused on considered, people-centred spaces. For now, I’m focused on learning from real projects, strengthening my design process, and documenting my work clearly.
+
+## Design tools
+
+- **Drafting and modelling:** AutoCAD, SketchUp, 3ds Max
+- **Visual communication:** Adobe Photoshop
+- **Digital projects:** HTML, SVG, JavaScript, Python, and Pygame
+- **Workflow:** Git and GitHub
+
+I use these tools in coursework and hands-on projects, and I’m continuing to develop my skills.
 
 ## Selected projects
 
-- [Graphico Complete](https://github.com/Tobi212006/graphico-complete) — print-studio web app
+- [Graphico Complete](https://github.com/Tobi212006/graphico-complete) — print-studio web application
 - [NAVV Project](https://github.com/Tobi212006/navv-project) — PHP web project
-- [Stack Python](https://github.com/Tobi212006/stack-python) — stack, queue, and circular-queue examples
+- [Stack Python](https://github.com/Tobi212006/stack-python) — examples of stacks, queues, and circular queues
 
-I’m focused on building useful projects, improving the details, and documenting how to run them.
+## What I’m working toward
+
+- Building a portfolio of interior and hospitality concepts
+- Improving my technical drawing and 3D visualisation workflow
+- Combining design thinking with useful digital tools
+- Growing toward my own interior design studio
+
+Thanks for visiting. I’m always learning, refining, and adding new work.
