@@ -1,13 +1,14 @@
 # Hi, I'm Tobi212006 👋
 
-I build web apps, Python games, and small tools through hands-on projects.
+I build web applications, Python games, and small tools through hands-on projects.
 
-## Tools I use
+## Skills & tools
 
-- **Python · Pygame** — game prototypes
-- **JavaScript · React · Next.js** — web projects
-- **PHP** — web development
-- **Git · GitHub** — version control and project sharing
+| Area | Tools and experience |
+| --- | --- |
+| Web development | JavaScript, React, Next.js, PHP |
+| Python projects | Python, Pygame |
+| Version control | Git, GitHub |
 
 ## Selected projects
 
