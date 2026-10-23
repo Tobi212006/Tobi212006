@@ -1,5 +1,7 @@
 # Hi, I'm Tobi212006 👋
 
+![Luffy artwork](assets/luffy-profile.jpg)
+
 I build web applications, Python games, and small tools through hands-on projects.
 
 ## Skills & tools
