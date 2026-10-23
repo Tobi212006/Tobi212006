@@ -1,6 +1,6 @@
 # Hi, I'm Tobi212006 👋
 
-![Luffy artwork](assets/luffy-profile.jpg)
+![Luffy artwork](https://raw.githubusercontent.com/Tobi212006/Tobi212006/main/assets/luffy-profile.jpg)
 
 I build web applications, Python games, and small tools through hands-on projects.
 
