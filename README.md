@@ -32,3 +32,33 @@ I’m continuing to strengthen my fundamentals through coursework and hands-on p
 - [Stack Python](https://github.com/Tobi212006/stack-python) — examples of stacks, queues, and circular queues
 
 I’m focused on learning consistently, improving through feedback, and building work that is useful beyond the classroom. Thanks for visiting.
+
+## Additional project work
+
+The repositories below broaden the portfolio with interactive software, application prototypes, and coursework-linked programming:
+
+- [Football Dash](https://github.com/Tobi212006/football-dash) — Python/Pygame game prototype demonstrating game loops, controls, collision handling, and progression.
+- [Ninja Runner](https://github.com/Tobi212006/ninja-runner) — Python/Pygame endless-runner prototype.
+- [Ninja](https://github.com/Tobi212006/ninja-) — another game repository; kept separate until its contents are compared with Ninja Runner to avoid incorrectly merging distinct work.
+- [Cafe Floor Plan](https://github.com/Tobi212006/cafe-floor-plan) — a design/planning artifact, included as a supporting project rather than a core software-engineering highlight.
+- [Magpie Garden Heist](https://github.com/Tobi212006/magpie-garden-heist) — interactive game project.
+
+## Computer science coursework and project documentation
+
+I also maintain project reports, interface layouts, setup notes, test plans, and revision materials for relevant computer-science work. Project documentation should distinguish implemented features from mockups or planned features, and exam revision notes are learning aids rather than software projects.
+
+- **Graphico printing web app:** project report, interface-screen documentation, MVP scope, workflow, and security/testing recommendations. See the existing [Graphico Complete repository](https://github.com/Tobi212006/graphico-complete).
+- **Om Sai Tours and Travels:** Android/Expo app project, Express API, MongoDB models, admin console, CSV templates, setup notes, architecture, and test plan. The source archive and reports are being checked for a suitable repository home before publication.
+- **Python data structures:** stack, queue, and circular queue implementations with complexity notes in [Stack Python](https://github.com/Tobi212006/stack-python).
+- **NAVV PHP project:** PHP/MySQL application and setup/security notes in [NAVV Project](https://github.com/Tobi212006/navv-project).
+
+## Current learning focus
+
+I’m strengthening programming fundamentals and practical application development while exploring responsible AI and technology for public-service access. I’m also interested in public-sector career pathways, where software, data, and problem-solving skills may be useful. I’m building the evidence for these interests through projects and coursework rather than claiming expertise or qualifications I have not yet earned.
+
+## Portfolio standards
+
+- Keep source code, reports, diagrams, and setup instructions together where practical.
+- Use real screenshots and tested demos when available; label mockups clearly.
+- Document known limitations and record test results honestly.
+- Never publish secrets, personal records, private correspondence, or material without permission.
