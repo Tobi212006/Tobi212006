@@ -26,6 +26,7 @@ I’m continuing to strengthen my fundamentals through coursework and hands-on p
 
 ## Selected projects
 
+- [CivicGuide](https://github.com/Tobi212006/civicguide-ai) — source-linked guide to official Indian public services; student prototype exploring responsible AI for public impact
 - [Graphico Complete](https://github.com/Tobi212006/graphico-complete) — print-studio web application
 - [NAVV Project](https://github.com/Tobi212006/navv-project) — PHP web project
 - [Stack Python](https://github.com/Tobi212006/stack-python) — examples of stacks, queues, and circular queues
