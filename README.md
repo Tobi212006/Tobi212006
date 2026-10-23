@@ -1,34 +1,45 @@
-# Hi, I’m Tobi212006 👋
+# Hi, I'm Tobi212006 👋
 
-![Luffy artwork](https://raw.githubusercontent.com/Tobi212006/Tobi212006/main/assets/luffy-profile.jpg)
+### BSc Computer Science student | Application development | Practical problem-solving
 
-### BSc Computer Science student · Software projects · AI for public impact
+I'm a Computer Science student based in Mumbai, India, learning software development by building practical web applications, Python projects, and interactive games. I enjoy turning ideas into working prototypes, documenting what I learn, and improving projects through iteration.
 
-I’m a BSc Computer Science student learning by building practical projects in Python, web development, and interactive software. I’m interested in how innovation in AI can help solve real problems and improve people’s lives.
+## What I'm working on
 
-**Long-term goal:** to pursue a career in government and contribute to meaningful technology and AI innovation that serves the public.
-
-## Tools and technologies
-
-- **Programming:** Python, JavaScript, PHP
-- **Web development:** HTML, CSS, React, Next.js
-- **Projects:** Pygame, data structures, interactive applications
-- **Workflow:** Git and GitHub
-
-I’m continuing to strengthen my fundamentals through coursework and hands-on projects.
-
-## Areas I’m exploring
-
-- Artificial intelligence and responsible use of AI
-- Technology for public services and community needs
-- Software development and problem-solving
-- Building clear, useful applications
+- **Web development:** HTML, CSS, JavaScript, Node.js/Express, PHP, and React/Next.js exploration
+- **Programming fundamentals:** Python, Java coursework, data structures, and problem-solving
+- **Application projects:** customer-facing websites, admin workflows, and interactive desktop games
+- **Responsible technology:** exploring how clear, source-linked digital tools can help people find public-service information
 
 ## Selected projects
 
-- [CivicGuide](https://github.com/Tobi212006/civicguide-ai) — source-linked guide to official Indian public services; student prototype exploring responsible AI for public impact
-- [Graphico Complete](https://github.com/Tobi212006/graphico-complete) — print-studio web application
-- [NAVV Project](https://github.com/Tobi212006/navv-project) — PHP web project
-- [Stack Python](https://github.com/Tobi212006/stack-python) — examples of stacks, queues, and circular queues
+| Project | What it demonstrates |
+| --- | --- |
+| [Graphico Complete](https://github.com/Tobi212006/graphico-complete) | Printing-services web application with a Node.js/Express backend and MongoDB-oriented project structure |
+| [CivicGuide](https://github.com/Tobi212006/civicguide-ai) | Static, source-linked guide to official Indian public-service portals; currently a student prototype |
+| [Football Dash](https://github.com/Tobi212006/football-dash) | Python/Pygame side-scrolling football runner with game controls, progression, and a project presentation |
+| [Ninja Runner](https://github.com/Tobi212006/ninja-runner) | Python/Pygame endless-runner game |
+| [NAVV Project](https://github.com/Tobi212006/navv-project) | PHP-based web application project |
+| [Stack Python](https://github.com/Tobi212006/stack-python) | Menu-driven Python implementations of stacks, queues, and circular queues |
 
-I’m focused on learning consistently, improving through feedback, and building work that is useful beyond the classroom. Thanks for visiting.
+## Tools and technologies
+
+- **Languages:** Python, JavaScript, PHP; Java through coursework
+- **Web:** HTML, CSS, Node.js/Express, React/Next.js exploration
+- **Data and storage:** MongoDB and Google Sheets integrations in project work
+- **Tools:** Git, GitHub, VS Code
+
+## How I approach projects
+
+- Build a useful, understandable first version.
+- Keep setup instructions and limitations clear.
+- Learn from testing, feedback, and debugging.
+- Prefer honest documentation over claiming unfinished features are complete.
+
+## Current interests
+
+Software engineering, application development, data structures and algorithms, responsible AI, football, and technology for public-service access.
+
+---
+
+Thanks for visiting. I'm continuously learning and improving my projects one step at a time.
