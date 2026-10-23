@@ -62,3 +62,6 @@ I’m strengthening programming fundamentals and practical application developme
 - Use real screenshots and tested demos when available; label mockups clearly.
 - Document known limitations and record test results honestly.
 - Never publish secrets, personal records, private correspondence, or material without permission.
+
+
+For a more detailed index of project reports, architecture notes, setup guides, and coursework-related artifacts, see the [Computer Science Portfolio Artifact Index](docs/portfolio/PROJECT_ARTIFACTS.md) and the [Om Sai Tours and Travels project summary](projects/om-sai-tours-and-travels/README.md).
