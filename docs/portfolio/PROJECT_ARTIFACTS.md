@@ -12,7 +12,7 @@ This folder indexes computer-science project work and supporting documentation a
 - Recommended home for future report files: `docs/` in the Graphico repository.
 
 ### Om Sai Tours and Travels
-- Project source archive: [Om Sai Tours and Travels Project ZIP](https://github.com/Tobi212006/Tobi212006/blob/main/project-archives/om-sai/Om_Sai_Tours_and_Travels_Project.zip) *(planned for publication; verify the file exists before relying on this link).*
+- Project source archive: an 80 KB ZIP with mobile app, backend, admin console, CSV templates, API/setup/test documentation, and architecture source was found in the ChatGPT project library. It has not yet been uploaded to GitHub as a binary file.
 - Supporting work found in the project library: project report, combined report/screens PDF, and screen-layout PDF.
 - Technology recorded in the archive: Expo/React Native with TypeScript, Express REST API, MongoDB/Mongoose, and a browser-based admin console.
 - Included project materials: API notes, setup instructions, test cases, architecture diagram source, CSV templates, backend models/server, mobile client, and admin UI.
