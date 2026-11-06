@@ -1,34 +1,50 @@
-# Hi, I’m Tobi212006 👋
+# Amit Bharat Adkar
 
-![Luffy artwork](https://raw.githubusercontent.com/Tobi212006/Tobi212006/main/assets/luffy-profile.jpg)
+**BSc Computer Science Student · Aspiring Software Developer · Exploring Applied AI**
 
-### BSc Computer Science student · Software projects · AI for public impact
+Mumbai, Maharashtra, India  
+[Email](mailto:amitadkhar123@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amit-adkar-8b37b936b/) · [GitHub](https://github.com/Tobi212006)
 
-I’m a BSc Computer Science student learning by building practical projects in Python, web development, and interactive software. I’m interested in how innovation in AI can help solve real problems and improve people’s lives.
+I’m a third-year Computer Science student at **Kirti M. Doongursee College, Mumbai**. I learn best by turning ideas into small, practical projects and improving them through documentation, debugging and feedback.
 
-**Long-term goal:** to pursue a career in government and contribute to meaningful technology and AI innovation that serves the public.
+My current focus is strengthening programming fundamentals and learning how complete applications fit together—from the user interface to backend logic and data storage. I’m especially curious about software engineering, responsible AI and technology that can make public-facing services easier to use.
 
-## Tools and technologies
+## What I’m learning
 
-- **Programming:** Python, JavaScript, PHP
-- **Web development:** HTML, CSS, React, Next.js
-- **Projects:** Pygame, data structures, interactive applications
-- **Workflow:** Git and GitHub
+- **Programming:** Python, Java, JavaScript and PHP
+- **Web development:** HTML, CSS, Node.js and Express.js
+- **Databases:** MySQL and MongoDB
+- **Tools:** Git, GitHub, VS Code and Android Studio
+- **Foundations:** Object-oriented programming, data structures, DBMS, computer networks and software testing
 
-I’m continuing to strengthen my fundamentals through coursework and hands-on projects.
-
-## Areas I’m exploring
-
-- Artificial intelligence and responsible use of AI
-- Technology for public services and community needs
-- Software development and problem-solving
-- Building clear, useful applications
+I describe my current level as **basic working knowledge** and am actively building confidence through hands-on practice.
 
 ## Selected projects
 
-- [CivicGuide](https://github.com/Tobi212006/civicguide-ai) — source-linked guide to official Indian public services; student prototype exploring responsible AI for public impact
-- [Graphico Complete](https://github.com/Tobi212006/graphico-complete) — print-studio web application
-- [NAVV Project](https://github.com/Tobi212006/navv-project) — PHP web project
-- [Stack Python](https://github.com/Tobi212006/stack-python) — examples of stacks, queues, and circular queues
+| Project | What it explores | Status |
+|---|---|---|
+| [CivicGuide](https://github.com/Tobi212006/civicguide-ai) | A source-linked directory prototype for finding official Indian public-service portals | Student prototype |
+| [Om Sai Tours and Travels](https://github.com/Tobi212006/om-sai-tours-and-travels) | A travel-booking application concept with a mobile client, API and admin interface | Academic project |
+| [Graphico Complete](https://github.com/Tobi212006/graphico-complete) | A web application concept for a printing-services business | MVP / in development |
+| [Stack Python](https://github.com/Tobi212006/stack-python) | Python practice with stacks, queues, circular queues and problem-solving exercises | Learning repository |
+| [Football Dash](https://github.com/Tobi212006/football-dash) | A Python/Pygame side-scrolling football runner | Personal project |
+| [NAVV Project](https://github.com/Tobi212006/navv-project) | A web-development project | Academic project |
 
-I’m focused on learning consistently, improving through feedback, and building work that is useful beyond the classroom. Thanks for visiting.
+I try to be clear about what is implemented, what is still being explored and what remains on the roadmap. Project repositories include setup notes and limitations where available.
+
+## Interests
+
+- Software engineering and application development
+- Applied AI, responsible AI and information retrieval
+- Data structures, algorithms and problem-solving
+- Technology for public services and community needs
+
+## Currently looking for
+
+A **Software Development Internship** where I can learn from an engineering team, contribute to well-scoped tasks and grow through real code reviews and practical experience.
+
+If you’re working on an interesting student-friendly project or internship opportunity, I’d be glad to connect.
+
+---
+
+*Learning steadily, building honestly, and getting better one project at a time.*
