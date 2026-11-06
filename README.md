@@ -23,14 +23,14 @@ I describe my current level as **basic working knowledge** and am actively build
 
 | Project | What it explores | Status |
 |---|---|---|
-| [CivicGuide](https://github.com/Tobi212006/civicguide-ai) | A source-linked directory prototype for finding official Indian public-service portals | Student prototype |
-| [Om Sai Tours and Travels](https://github.com/Tobi212006/om-sai-tours-and-travels) | A travel-booking application concept with a mobile client, API and admin interface | Academic project |
+| [CivicGuide](https://github.com/Tobi212006/civicguide-ai) | Static directory for official Indian public-service portals, with a documented future research comparison | Student prototype; no AI model connected |
+| [Om Sai Tours and Travels](https://github.com/Tobi212006/om-sai-tours-and-travels) | Travel-booking application project with setup documentation and starter configuration | Academic prototype; source upload incomplete |
 | [Graphico Complete](https://github.com/Tobi212006/graphico-complete) | A web application concept for a printing-services business | MVP / in development |
-| [Stack Python](https://github.com/Tobi212006/stack-python) | Python practice with stacks, queues, circular queues and problem-solving exercises | Learning repository |
+| [Stack Python](https://github.com/Tobi212006/stack-python) | Python practice with reusable stack/queue implementations, searching algorithms and unit tests | Learning repository; CI workflow added |
 | [Football Dash](https://github.com/Tobi212006/football-dash) | A Python/Pygame side-scrolling football runner | Personal project |
 | [NAVV Project](https://github.com/Tobi212006/navv-project) | A web-development project | Academic project |
 
-I try to be clear about what is implemented, what is still being explored and what remains on the roadmap. Project repositories include setup notes and limitations where available.
+I try to be clear about what is implemented, what is still being explored and what remains on the roadmap. Project repositories include setup notes, tests and limitations where available. For CivicGuide, the research plan is explicitly a proposed direction—not a completed study or AI implementation.
 
 ## Interests
 
